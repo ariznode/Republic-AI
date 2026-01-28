@@ -4,7 +4,7 @@
 
 Recommended : 
 
-- CPU : 6 core
+- CPU : 4 core
 - RAM : 16 GB
 - Storage : 500 GB
 
