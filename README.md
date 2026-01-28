@@ -8,7 +8,7 @@ Recommended :
 - RAM : 16 GB
 - Storage : 500 GB
 
-##Republic AI Validator Guide
+## Republic AI Validator Guide
 
 ### Install Depedency
 
